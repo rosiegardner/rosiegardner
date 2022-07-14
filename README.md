@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Ruby on Rails & React with Redux
 - 💞️ I’m looking to collaborate on new ideas!
-- 📫 How to reach me LinkedIn => https://www.linkedin.com/in/rosietgardner/ & Email => rosiegardner78@gmail.com
+- 📫 How to reach me @ linkedin.com/in/rosietgardner & rosiegardner78@gmail.com
 
 <!---
 rosiegardner/rosiegardner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
