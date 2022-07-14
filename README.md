@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rosie!
-- 👀 I’m interested in 
+- 👀 I’m interested in building API's and Databases for all!
 - 🌱 I’m currently learning Ruby on Rails & React with Redux
 - 💞️ I’m looking to collaborate on new ideas!
 - 📫 How to reach me @ linkedin.com/in/rosietgardner & rosiegardner78@gmail.com
