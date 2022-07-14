@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rosiegardner
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Rosie!
+- 👀 I’m interested in 
+- 🌱 I’m currently learning Ruby on Rails & React with Redux
+- 💞️ I’m looking to collaborate on new ideas!
+- 📫 How to reach me LinkedIn => https://www.linkedin.com/in/rosietgardner/ & Email => rosiegardner78@gmail.com
 
 <!---
 rosiegardner/rosiegardner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
